@@ -1,0 +1,74 @@
+.ortala {
+
+    margin: 250px 550px 0 570px;
+
+}
+
+.birincikutu {
+    width: 1300px;
+    height: 70px;
+    background: rgb(240, 230, 230);
+    margin: auto;
+    text-align: center;
+}
+
+
+.ucuncukutu {
+    width: 100px;
+    height: 15px;
+    margin: 0 531px;
+    background-color: white;
+}
+
+.dorduncukutu {
+    height: 15px;
+    background: white;
+    margin: -15px 636px;
+}
+
+.besincikutu {
+    width: 550px;
+    height: 80px;
+    background: rgb(141, 216, 212);
+    text-align: center;
+    margin: -16px 110px;
+}
+
+.altincikutu {
+    width: 250px;
+    height: 80px;
+    background: rgb(107, 202, 197);
+    margin: -96px 662px;
+    text-align: center;
+}
+
+.yedincikutu {
+    width: 500px;
+    height: 80px;
+    background: rgb(107, 202, 197);
+    margin: 16px 915px;
+    text-align: center;
+}
+
+.sekizincikutu {
+    width: 15px;
+    height: 20px;
+    margin: -14px 155px;
+    background-color: white;
+    color: rgb(37, 36, 36);
+    text-align: left;
+}
+
+.dokuzuncukutu {
+    width: 20px;
+    height: 19px;
+    background: white;
+    margin: 15px 185px;
+}
+
+.onuncukutu {
+    width: 50px;
+    height: 19px;
+    background: rgb(107, 202, 197);
+    margin: -35px 280px;
+}
